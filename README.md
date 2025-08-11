@@ -24,4 +24,4 @@ This is a personal portfolio website built with Next.js, TypeScript, Tailwind CS
 Replace placeholder content and images in the `src/app/page.tsx` file with your own information.
 
 ## License
-MIT
+All rights reserved at attapanhyar@quest.edu.pk
